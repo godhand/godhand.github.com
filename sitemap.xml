@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
+    <url>
+        <loc>
+            http://godhand.github.com/blog/2011/11/19/fix-installing-rb-fsevent-0-dot-4-3-dot-1-error/
+        </loc>
+        <lastmod>2011-11-19T20:37:34+08:00</lastmod>
+    </url>
+    <url>
+        <loc>http://godhand.github.com/blog/archives/</loc>
+        <lastmod>2011-11-19T20:37:34+08:00</lastmod>
+    </url>
+    <url>
+        <loc>http://godhand.github.com/</loc>
+        <lastmod>2011-11-19T20:37:34+08:00</lastmod>
+    </url>
+</urlset>
